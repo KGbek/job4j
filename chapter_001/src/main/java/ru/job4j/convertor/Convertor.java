@@ -16,6 +16,10 @@ public class Convertor {
         return value / 63;
     }
 
+    public int dollarToRuble(int value) {
+        return value * 63;
+    }
+
     /**
      * Конертируем евро на рубли.
      * @param value рубли.
@@ -24,5 +28,9 @@ public class Convertor {
 
     public int rubleToEuro(int value){
         return value / 74;
+    }
+
+    public int euroToRuble(int value) {
+        return value * 74;
     }
 }
