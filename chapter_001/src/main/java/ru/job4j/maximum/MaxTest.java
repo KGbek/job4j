@@ -12,4 +12,11 @@ public class MaxTest {
         int result = maximum.max(1,2);
         assertThat(result, is(2));
     }
+
+    @Test
+    public void whenSecondLessFirst(){
+        Max maximum = new Max();
+        int result = maximum.max(1,1);
+        assertThat(result, is(1));
+    }
 }
