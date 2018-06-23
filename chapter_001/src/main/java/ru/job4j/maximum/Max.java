@@ -19,4 +19,11 @@ public class Max {
         return first >= second ? first : second;
 
     }
+
+    public int max (int first, int second, int third){
+
+        int temp = this.max(first, second);
+        int temp2 = this.max(temp, third);
+        return temp2;
+    }
 }

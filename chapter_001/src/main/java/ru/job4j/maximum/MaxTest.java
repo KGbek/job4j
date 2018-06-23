@@ -19,4 +19,11 @@ public class MaxTest {
         int result = maximum.max(1,1);
         assertThat(result, is(1));
     }
+
+    @Test
+    public void whenMaxIsFromThreeNumber(){
+        Max maximum = new Max();
+        int result = maximum.max(3,4,5);
+        assertThat(result, is(5));
+    }
 }
