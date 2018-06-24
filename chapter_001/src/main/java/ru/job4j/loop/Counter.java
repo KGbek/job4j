@@ -1,13 +1,13 @@
 package ru.job4j.loop;
 
 public class Counter {
-    int result = 0;
+    int result;
 
     public int add(int start, int finish){
 
-        for(start = 0; start<=10; start++){
-            if(start % 2 == 0){
-                result = result + start;
+        for(int i = 0; i <= finish; i++){
+            if(i % 2 == 0){
+                result = result + i;
 
             }
         }
