@@ -8,6 +8,8 @@ package ru.job4j.loop;
 
 public class Paint {
 
+    //Правая часть пирамида.
+
     public String rightTrl(int height) {
         //Буфер для результата
         StringBuilder screen = new StringBuilder();

@@ -31,6 +31,7 @@ public class PaintTest {
         );
     }
 
+    //Надо попрабовать реализовать полную пирамиду.
     @Test
     public void whenPyramid4Left() {
         Paint paint = new Paint();
