@@ -6,7 +6,7 @@ public class Triangle {
     private Point b;
     private Point c;
 
-    public Triangle(Point a, Point b, Point c){
+    public Triangle(Point a, Point b, Point c) {
         this.a = a;
         this.b = b;
         this.c = c;
@@ -22,7 +22,7 @@ public class Triangle {
      * @param bc расстояние между точками b c
      * @return Перимент.
      */
-    public double period(double ab, double ac, double bc){
+    public double period(double ab, double ac, double bc) {
 
         return (ab + ac + bc) / 2; }
 
@@ -39,7 +39,7 @@ public class Triangle {
         double p = this.period(ab, ac, bc);
         if (this.exist(ab, ac, bc)) {
             // написать формулу для расчета площади треугольника.
-           rsl = Math.sqrt(p * (p-ab) * (p-ac) * (p-bc));
+           rsl = Math.sqrt(p * (p - ab) * (p - ac) * (p - bc));
             //вместо многоточия нужно написать формулу Герона с подставленными переменные ab, ac, bc, p.
             // Для извлечение квадратного корня надо использовать метод Math.sqrt()
 

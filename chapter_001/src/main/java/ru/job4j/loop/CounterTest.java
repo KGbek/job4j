@@ -10,7 +10,7 @@ public class CounterTest {
     public void whenSumEvenNumbersFromOneToTenThenThirty() {
         //напишите здесь тест, проверяющий, что сумма чётных чисел от 1 до 10 при вызове метода counter.add будет равна 30.
         Counter count = new Counter();
-        int summ = count.add(0,10);
+        int summ = count.add(0, 10);
          assertThat(summ, is(30));
     }
 
