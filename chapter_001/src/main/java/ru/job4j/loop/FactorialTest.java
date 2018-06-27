@@ -9,7 +9,7 @@ public class FactorialTest {
     public void whenCalculateFactorialForFiveThenOneHundreedTwenty() {
         //напишите здесь тест, проверяющий, что факториал для числа 5 равен 120.
         Factorial fact = new Factorial();
-        int result = fact.Calc(5);
+        int result = fact.calc(5);
         assertThat(result, is(120));
     }
 
@@ -17,7 +17,7 @@ public class FactorialTest {
     public void whenCalculateFactorialForZeroThenOne() {
         //напишите здесь тест, проверяющий, что факториал для числа 0 равен 1.
         Factorial fact = new Factorial();
-        int result = fact.Calc(0);
+        int result = fact.calc(0);
         assertThat(result, is(1));
     }
 }
