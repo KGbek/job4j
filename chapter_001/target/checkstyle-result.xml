@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="6.11.2">
+<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\FindLoop.java">
+</file>
+<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\FindLoopTest.java">
+</file>
+<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\Square.java">
+<error line="6" column="45" severity="error" message="&apos;)&apos; is preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.ParenPadCheck"/>
+</file>
+<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\SquareTest.java">
+</file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\calculate\Calculate.java">
 </file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\calculator\Calculator.java">
