@@ -39,7 +39,7 @@ public class Paint {
         return this.loopBy(
                 height,
                 height,
-                (row, column) -> row >= height - column -1
+                (row, column) -> row >= height - column - 1
         );
     }
 
@@ -48,7 +48,7 @@ public class Paint {
         return this.loopBy(
                 height,
                 2 * height - 1,
-                (row, column) -> row >= height - column -1 && row + height - 1 >= column
+                (row, column) -> row >= height - column - 1 && row + height - 1 >= column
         );
     }
 }
