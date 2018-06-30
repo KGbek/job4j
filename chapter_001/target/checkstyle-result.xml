@@ -9,6 +9,11 @@
 </file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\SquareTest.java">
 </file>
+<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\Turn.java">
+</file>
+<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\TurnTest.java">
+<error line="10" column="71" severity="error" message="&apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\calculate\Calculate.java">
 </file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\calculator\Calculator.java">
