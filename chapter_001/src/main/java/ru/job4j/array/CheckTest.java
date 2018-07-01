@@ -21,4 +21,20 @@ public class CheckTest {
         boolean result = check.mono(input);
         assertThat(result, is(false));
     }
+
+    @Test
+    public void whenData() {
+        Check check = new Check();
+        boolean[] input = new boolean[] {false, false, false};
+        boolean result = check.mono(input);
+        assertThat(result, is(true));
+    }
+
+    @Test
+    public void whenData2() {
+        Check check = new Check();
+        boolean[] input = new boolean[] {false, true, false};
+        boolean result = check.mono(input);
+        assertThat(result, is(false));
+    }
 }

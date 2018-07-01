@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="6.11.2">
+<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\Check.java">
+<error line="7" severity="error" message="&apos;if&apos; construct must use &apos;{}&apos;s." source="com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck"/>
+<error line="7" column="19" severity="error" message="Expression can be simplified." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck"/>
+</file>
+<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\CheckTest.java">
+</file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\FindLoop.java">
 </file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\FindLoopTest.java">
