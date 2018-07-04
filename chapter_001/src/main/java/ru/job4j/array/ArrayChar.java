@@ -20,7 +20,6 @@ public class ArrayChar {
         for (int i = 0; i < minLength; i++) {
             if (data[i] != value[i]) {
                 result = false;
-                return result;
             }
         }
         return result;
