@@ -5,10 +5,10 @@ public class Check {
         boolean result = false;
         for (int i =0; i != data.length; i++) {
             if (i > 1) {
-                return data[0] == data[1];
+                result = data[0] == data[1];
             }
 
         }
-        return false;
+        return result;
     }
 }
