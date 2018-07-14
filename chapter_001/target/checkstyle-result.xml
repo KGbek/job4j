@@ -2,91 +2,87 @@
 <checkstyle version="6.11.2">
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\ArrayChar.java">
 </file>
-<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\ArrayCharTest.java">
-</file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\ArrayDuplicate.java">
 </file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\BubbleSort.java">
-</file>
-<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\BubbleSortTest.java">
 </file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\Check.java">
 </file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\CheckTest.java">
 </file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\Ediltest.java">
-<error line="7" column="31" severity="error" message="&apos;{&apos; is followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.NoWhitespaceAfterCheck"/>
 <error line="35" column="32" severity="error" message="Expression can be simplified." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck"/>
 </file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\FindLoop.java">
 </file>
-<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\FindLoopTest.java">
-</file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\Matrix.java">
 </file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\MatrixCheck.java">
-<error line="11" column="35" severity="error" message="Expression can be simplified." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck"/>
-</file>
-<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\MatrixCheckTest.java">
-</file>
-<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\MatrixTest.java">
 </file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\Square.java">
 </file>
-<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\SquareTest.java">
-</file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\Turn.java">
-</file>
-<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\TurnTest.java">
 </file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\calculate\Calculate.java">
 </file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\calculator\Calculator.java">
 </file>
-<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\calculator\CalculatorTest.java">
-</file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\calculator\Fit.java">
 </file>
-<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\calculator\FitTest.java">
-</file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\condition\DummyBot.java">
-</file>
-<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\condition\DummyBotTest.java">
 </file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\condition\Point.java">
 </file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\condition\Triangle.java">
 </file>
-<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\condition\TriangleTest.java">
-</file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\convertor\Convertor.java">
-</file>
-<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\convertor\ConvertorTest.java">
 </file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\loop\Board.java">
 </file>
-<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\loop\BoardTest.java">
-</file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\loop\Counter.java">
-</file>
-<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\loop\CounterTest.java">
 </file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\loop\Factorial.java">
 </file>
-<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\loop\FactorialTest.java">
-</file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\loop\Paint.java">
-</file>
-<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\loop\PaintTest.java">
 </file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\maximum\Max.java">
 </file>
-<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\maximum\MaxTest.java">
+<file name="C:\projects\job4j\chapter_001\src\test\java\ru\job4j\ArrayCharTest.java">
+</file>
+<file name="C:\projects\job4j\chapter_001\src\test\java\ru\job4j\BoardTest.java">
+</file>
+<file name="C:\projects\job4j\chapter_001\src\test\java\ru\job4j\BubbleSortTest.java">
 </file>
 <file name="C:\projects\job4j\chapter_001\src\test\java\ru\job4j\CalculateTest.java">
 </file>
-<file name="C:\projects\job4j\chapter_001\src\test\java\ru\job4j\max\MaxTest.java">
+<file name="C:\projects\job4j\chapter_001\src\test\java\ru\job4j\CalculatorTest.java">
+</file>
+<file name="C:\projects\job4j\chapter_001\src\test\java\ru\job4j\ConvertorTest.java">
+</file>
+<file name="C:\projects\job4j\chapter_001\src\test\java\ru\job4j\CounterTest.java">
+</file>
+<file name="C:\projects\job4j\chapter_001\src\test\java\ru\job4j\DummyBotTest.java">
+</file>
+<file name="C:\projects\job4j\chapter_001\src\test\java\ru\job4j\FactorialTest.java">
+</file>
+<file name="C:\projects\job4j\chapter_001\src\test\java\ru\job4j\FindLoopTest.java">
+</file>
+<file name="C:\projects\job4j\chapter_001\src\test\java\ru\job4j\FitTest.java">
+</file>
+<file name="C:\projects\job4j\chapter_001\src\test\java\ru\job4j\MatrixCheckTest.java">
+</file>
+<file name="C:\projects\job4j\chapter_001\src\test\java\ru\job4j\MatrixTest.java">
+</file>
+<file name="C:\projects\job4j\chapter_001\src\test\java\ru\job4j\MaxTest.java">
 </file>
 <file name="C:\projects\job4j\chapter_001\src\test\java\ru\job4j\package-info.java">
+</file>
+<file name="C:\projects\job4j\chapter_001\src\test\java\ru\job4j\PaintTest.java">
+</file>
+<file name="C:\projects\job4j\chapter_001\src\test\java\ru\job4j\SquareTest.java">
+</file>
+<file name="C:\projects\job4j\chapter_001\src\test\java\ru\job4j\TriangleTest.java">
+</file>
+<file name="C:\projects\job4j\chapter_001\src\test\java\ru\job4j\TurnTest.java">
 </file>
 </checkstyle>
