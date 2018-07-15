@@ -10,9 +10,6 @@
 </file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\CheckTest.java">
 </file>
-<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\Ediltest.java">
-<error line="35" column="32" severity="error" message="Expression can be simplified." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck"/>
-</file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\FindLoop.java">
 </file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\array\Matrix.java">
@@ -47,7 +44,15 @@
 </file>
 <file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\maximum\Max.java">
 </file>
+<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\tictactoe\Figure3T.java">
+</file>
+<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\tictactoe\Logic3T.java">
+</file>
+<file name="C:\projects\job4j\chapter_001\src\main\java\ru\job4j\tictactoe\TicTacToe.java">
+</file>
 <file name="C:\projects\job4j\chapter_001\src\test\java\ru\job4j\ArrayCharTest.java">
+</file>
+<file name="C:\projects\job4j\chapter_001\src\test\java\ru\job4j\ArrayDuplicateTest.java">
 </file>
 <file name="C:\projects\job4j\chapter_001\src\test\java\ru\job4j\BoardTest.java">
 </file>
